@@ -1,1 +1,1 @@
-# Trivia-Repo
+https://trivia-aksrepo.vercel.app/
