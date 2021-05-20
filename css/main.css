@@ -1,2 +1,22 @@
-/* styles */
+/* stylesx */
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+}
 
+.subcontainer-1 {
+  flex: 1;
+  background-color: #292a2d;
+  height: 100vh;
+}
+.subcontainer-1 h2 {
+   
+    font-family: 'Raleway', sans-serif; ;
+}
+.subcontainer-2 {
+  flex: 1;
+  height: 100vh;
+}
