@@ -11,12 +11,24 @@
   flex: 1;
   background-color: #292a2d;
   height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.subcontainer-1 h2 {
-   
+.tagline {
+    width: 450px;
+}
+.tagline h2 {
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 50px;
+    color: #5BA0ED;
     font-family: 'Raleway', sans-serif; ;
+
+
 }
 .subcontainer-2 {
   flex: 1;
   height: 100vh;
 }
+
